@@ -1,0 +1,5 @@
+Documentación
+
+Se hace la validación de JUnit y los errores con una base de datos en MySql, se generan 3 tablas con sus modelos y atributos respectivamente, capa de persistencia y servicios por cada modelo  o tabla. JUnit se hace en su respectiva clase y sus respectivos controller y endpoints, totalmemte funcional, tambien se anexa el script de la base de datos para su validación.
+
+Corre en el puerto 8080
